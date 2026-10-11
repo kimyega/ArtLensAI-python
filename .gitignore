@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+*.tar
+
+package.json
+package-lock.json
+
+dump/
+dataset_images/
+
+.vscode/

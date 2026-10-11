@@ -1,0 +1,13 @@
+venv/
+**pycache**/
+.vscode/
+dump/
+dataset_images/
+
+*.jpg
+*.png
+*.jpeg
+
+.git
+.gitignore
+.env
